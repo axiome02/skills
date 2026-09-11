@@ -1,0 +1,25 @@
+# OS & Editors
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Node / Dependencies
+node_modules/
+dist/
+build/
+.npm/
+
+# Python / Environments
+__pycache__/
+*.py[cod]
+.venv/
+env/
+
+# Logs & Temporary files
+*.log
+scratch/
+tmp/
+.gemini/
