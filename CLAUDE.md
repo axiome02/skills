@@ -39,11 +39,9 @@ skills/
 2. **Link to remote GitHub repository**:
    ```bash
    git branch -M main
-   git remote add origin <GITHUB_REPO_URL>
+   git remote add origin https://github.com/axiome02/skills.git
    git push -u origin main
    ```
-3. **Update `README.md`**:
-   - Replace `<username>` with your actual GitHub username in the `npx degit` command.
 
 ---
 

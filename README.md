@@ -28,7 +28,7 @@ Copy the desired skill folder into your global skills directory or directly insi
 Clone a specific skill directly into your project:
 
 ```bash
-npx degit <username>/skills/app-design .skills/app-design
+npx degit axiome02/skills/app-design .skills/app-design
 ```
 
 ---
